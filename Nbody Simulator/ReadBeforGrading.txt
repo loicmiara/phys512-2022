@@ -1,0 +1,1 @@
+The figures/gif do not show up on the pdf of the notebook, so if you want to see the animations in action, look at the notebook please
